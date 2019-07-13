@@ -1,0 +1,2 @@
+udpate diterminal :  npm install
+download plugin : pug/jade
